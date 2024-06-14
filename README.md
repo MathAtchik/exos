@@ -31,8 +31,8 @@ Le dossier `exercice frontend REST` contient des exercices et des exemples de co
 
 Pour cloner ce dépôt sur votre machine locale, utilisez la commande suivante :
 
-```sh
-git clone https://github.com/MathAtchik/exos.git
+    ```sh
+    git clone https://github.com/MathAtchik/exos.git
 
 Exécuter les Exercices
 
