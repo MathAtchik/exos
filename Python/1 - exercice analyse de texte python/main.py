@@ -10,6 +10,7 @@ def main():
     text = input("Entrez un texte : ")
 
     # Analyser le texte
+    # TODO : utiliser la fonction précédente
 
     # Afficher les résultats
     print(f"Nombre de caractères : ")
